@@ -4,6 +4,7 @@ body{
 	font-family: 'Helvetica', 'Arial', 'sans-serif';
 	font-size: 20px;
 	line-height: 30px;
+	background-color: white;
 }
 
 header{
@@ -29,7 +30,7 @@ header h1 {
 header img{
 	border-radius: 170px;
 	width: 300px;
-	border: 20px solid white ;
+	border: 20px solid black ;
 }
 
 main{
@@ -44,7 +45,7 @@ main img{
 
 h2 {
 	font-size: 30px;
-	color: darkgrey;
+	color: black;
 }
 
 footer{
